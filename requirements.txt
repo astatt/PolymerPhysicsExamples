@@ -1,0 +1,7 @@
+numpy
+scipy
+math
+matplotlib
+random
+ipyvolume
+ipywidgets
