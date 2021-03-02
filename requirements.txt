@@ -1,6 +1,5 @@
 numpy
 scipy
 matplotlib
-random
 ipyvolume
 ipywidgets
